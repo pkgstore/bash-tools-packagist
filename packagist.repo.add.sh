@@ -14,7 +14,7 @@ read -r -d '' help <<- EOF
 Options:
   -x 'TOKEN'                            Packagist token.
   -u 'USER'                             Packagist user name.
-  -r '[URL1;URL2;URL3]'                 Repository URL array.
+  -r 'URL_1;URL_2;URL_3'                Repository URL array.
 EOF
 
 # -------------------------------------------------------------------------------------------------------------------- #
